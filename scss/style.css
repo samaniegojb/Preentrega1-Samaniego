@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-style: italic;
+  font-family: "Alkalami", serif;
+  font-size: 60px;
+  text-align: center;
+  color: rgb(13, 11, 15);
+}
+
+main section h2 h3 h4 {
+  background-color: hotpink;
+}
+
+footer {
+  background-color: grey;
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
