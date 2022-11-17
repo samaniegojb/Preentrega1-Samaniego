@@ -14,4 +14,13 @@ h1 {
 
 .remarcado {
   background-color: hotpink;
+}
+
+header {
+  background-color: darkgrey;
+  grid-area: encabezado;
+}
+
+body {
+  background-color: rgb(251, 205, 255);
 }/*# sourceMappingURL=style.css.map */
