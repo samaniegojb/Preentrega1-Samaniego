@@ -1,14 +1,14 @@
 header {
-    background-color: darkgrey;
-    grid-area: encabezado;
-  }
-  
-  body {
-    background-color: rgb(251, 205, 255);
-  }
-  
+  background-color: darkgrey;
+  grid-area: encabezado;
+}
 
-  /* no sirve
+body {
+  background-color: rgb(251, 205, 255);
+}
+
+
+/* no sirve
 .card {
   display: flex;
   flex-wrap: wrap;
@@ -17,8 +17,26 @@ header {
 
 }
 */
-.card img{
-width: 100%;
-height: 50%;
+.card img {
+  width: 100%;
+  height: 50%;
 
+}
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+.card{
+  margin: 3%;
+}
+
+.move {
+  margin: 5%;
 }
